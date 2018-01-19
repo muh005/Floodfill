@@ -9,7 +9,7 @@ or "java Makemaze whatever.txt" which print the output to "whatever.txt"
 program will figure out how to output itself. By press print, you will have 
 program exit and output done.
 
-![image](http://github.com/muh005/Floodfill/raw/master/img/makemaze.jpg)
+![image](http://github.com/muh005/Floodfill/raw/master/img/makemaze.gif)
 
 To use floodfill, cd makemaze
 
