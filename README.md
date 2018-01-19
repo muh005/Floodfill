@@ -9,7 +9,7 @@ or "java Makemaze whatever.txt" which print the output to "whatever.txt"
 program will figure out how to output itself. By press print, you will have 
 program exit and output done.
 
-![image](http://github.com/muh005/Floodfill/raw/master/img/makemaze.gif)
+![image](https://github.com/muh005/Floodfill/raw/master/img/makemaze.gif)
 
 To use floodfill, cd makemaze
 
@@ -25,3 +25,5 @@ out at the same time.
 (4) You can adjust speed by drag the slider.
 
 whatever.txt is where you record your maze, and it will not fade away.
+
+![image](https://github.com/muh005/Floodfill/raw/master/img/floodfill.gif)
