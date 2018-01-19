@@ -1,4 +1,4 @@
-- To use makemaze, cd floodfill/src
+To use makemaze, cd floodfill/src
 (1) First compile the file by "javac Makemaze.java"
 (2) Second run it by either "java Makemaze" which print the output to stdout 
 or "java Makemaze whatever.txt" which print the output to "whatever.txt"
@@ -6,7 +6,7 @@ or "java Makemaze whatever.txt" which print the output to "whatever.txt"
 program will figure out how to output itself. By press print, you will have 
 program exit and output done.
 
-- To use floodfill, cd makemaze
+To use floodfill, cd makemaze
 (1) First compile the file by "javac Simulation.java"
 (2) Second run it by "java Simulation whatever.txt", in this case,
 whatever.txt should be the same as what you get from Makemaze.java
