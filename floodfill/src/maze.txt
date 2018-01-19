@@ -1,0 +1,8 @@
+dimension 16 16
+obstacle 11 5
+obstacle 11 4
+obstacle 11 3
+obstacle 11 7
+obstacle 11 6
+obstacle 3 2
+obstacle 6 2
