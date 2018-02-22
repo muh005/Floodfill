@@ -14,7 +14,7 @@ program exit and output done.
 
 ![image](https://github.com/muh005/Floodfill/raw/master/img/makemaze.gif)
 
-## floodfill
+## Floodfill
 Once you have your own maze file, you can run floodfill program with it  
 To use floodfill, cd makemaze
 
