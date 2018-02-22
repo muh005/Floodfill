@@ -1,6 +1,6 @@
 # Floodfill  
 ## Makemaze 
-You can make your own maze to run floodfill program
+You can make your own maze to run floodfill program  
 To use makemaze, cd floodfill/src
 
 (1) First compile the file by "javac Makemaze.java"
@@ -15,7 +15,7 @@ program exit and output done.
 ![image](https://github.com/muh005/Floodfill/raw/master/img/makemaze.gif)
 
 ## floodfill
-Once you have your own maze file, you can run floodfill program with it
+Once you have your own maze file, you can run floodfill program with it  
 To use floodfill, cd makemaze
 
 (1) First compile the file by "javac Simulation.java"
